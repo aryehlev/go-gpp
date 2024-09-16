@@ -3,8 +3,8 @@ package gpp
 import (
 	"errors"
 	"fmt"
-	"github.com/prebid/go-gpp/constants"
-	"github.com/prebid/go-gpp/util"
+	"github.com/streamrail/go-gpp/constants"
+	"github.com/streamrail/go-gpp/util"
 	"sort"
 	"strings"
 )

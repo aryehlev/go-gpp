@@ -1,9 +1,9 @@
 package uspva
 
 import (
-	"github.com/prebid/go-gpp/constants"
-	"github.com/prebid/go-gpp/sections"
-	"github.com/prebid/go-gpp/util"
+	"github.com/streamrail/go-gpp/constants"
+	"github.com/streamrail/go-gpp/sections"
+	"github.com/streamrail/go-gpp/util"
 )
 
 type USPVA struct {
