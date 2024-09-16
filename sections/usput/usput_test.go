@@ -3,7 +3,7 @@ package usput
 import (
 	"testing"
 
-	"github.com/prebid/go-gpp/constants"
+	"github.com/streamrail/go-gpp/constants"
 	"github.com/stretchr/testify/assert"
 )
 

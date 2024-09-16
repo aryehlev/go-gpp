@@ -3,8 +3,8 @@ package uspnat
 import (
 	"testing"
 
-	"github.com/prebid/go-gpp/constants"
-	"github.com/prebid/go-gpp/sections"
+	"github.com/streamrail/go-gpp/constants"
+	"github.com/streamrail/go-gpp/sections"
 	"github.com/stretchr/testify/assert"
 )
 

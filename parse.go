@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/prebid/go-gpp/constants"
-	"github.com/prebid/go-gpp/sections/uspca"
-	"github.com/prebid/go-gpp/sections/uspco"
-	"github.com/prebid/go-gpp/sections/uspct"
-	"github.com/prebid/go-gpp/sections/uspnat"
-	"github.com/prebid/go-gpp/sections/usput"
-	"github.com/prebid/go-gpp/sections/uspva"
-	"github.com/prebid/go-gpp/util"
+	"github.com/streamrail/go-gpp/constants"
+	"github.com/streamrail/go-gpp/sections/uspca"
+	"github.com/streamrail/go-gpp/sections/uspco"
+	"github.com/streamrail/go-gpp/sections/uspct"
+	"github.com/streamrail/go-gpp/sections/uspnat"
+	"github.com/streamrail/go-gpp/sections/usput"
+	"github.com/streamrail/go-gpp/sections/uspva"
+	"github.com/streamrail/go-gpp/util"
 )
 
 const (
